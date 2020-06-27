@@ -1,6 +1,6 @@
-# PoliticalSurvey
+# PoliticalSurvey Landing Page
 
-<b>This web app for this Epsilon Hacks Hackathon project by Groupuwu is hosted on:</b> <br>
+<b>This repo is the landing page code for the political survey project by GroupUwU for the EpsilonHacks high school hackathon.</b> <br>
 http://35.247.48.245 <br>
 http://35.247.48.245/results
 
