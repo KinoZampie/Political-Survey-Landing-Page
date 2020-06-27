@@ -1,13 +1,14 @@
 # PoliticalSurvey Landing Page
 
-<b>This repo is the landing page code for the political survey project by GroupUwU for the EpsilonHacks high school hackathon.</b> <br>
-http://35.247.48.245 <br>
+**This repo is the landing page code for the political survey project by GroupUwU for the EpsilonHacks high school hackathon.** 
+
+http://35.247.48.245
 http://35.247.48.245/results
 
-<b>The landing page can be found on:</b><br>
-https://political-survey-landing-page--harshitgupta2.repl.co/ <br>
-<b>Source for the landing page:</b><br>
-https://repl.it/@HarshitGupta2/Political-Survey-Landing-Page#index.html or<br>
+**The landing page can be found on:**
+https://political-survey-landing-page--harshitgupta2.repl.co/ 
+**Source for the landing page:**
+https://repl.it/@HarshitGupta2/Political-Survey-Landing-Page#index.html or
 https://github.com/KinoZampie/Political-Survey-Landing-Page
 
 This project was inspired due to the fact that our group wanted to create a product that would store values using databases. Our group went through several ideas of which social good were focused on. After some time, we decided that having a political representation poll could be a realistic yet challenging project. Originally, the project was meant to be a political compass with only two axes (left vs. right on the x-axis and authority vs liberty on the vertical axis). However, it was decided to use 8values ( where this assesses economic, diplomatic, civil, and societal ideologies) in order to better assess what the people want.
