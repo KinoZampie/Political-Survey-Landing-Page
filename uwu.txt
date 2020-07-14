@@ -1,6 +1,6 @@
 Equality (Economic)
 Those with higher Equality scores believe the economy should distribute value evenly among the populace. They tend to support progressive tax codes, social programs, and at high values, socialism.
- 
+
 Markets (Economic)
 Those with higher Market scores believe the economy should be focused on rapid growth. They tend to support lower taxes, privatization, deregulation, and at high values, laissez-faire capitalism.
 
