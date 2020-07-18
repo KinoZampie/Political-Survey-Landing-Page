@@ -2,13 +2,14 @@
 
 **This repo is the landing page code for the political survey project by GroupUwU for the EpsilonHacks high school hackathon.** 
 
-http://35.247.48.245
-http://35.247.48.245/results
+*A demo for this web app can be found on:* <br>
+https://survey-mapper--harshitgupta2.repl.co/ <br>
+https://survey-mapper--harshitgupta2.repl.co/results
 
-**The landing page can be found on:**
+*The landing page can be found on:*
 https://political-survey-landing-page--harshitgupta2.repl.co/ 
 
-**Source for the landing page:**
+*Source for the landing page:*
 https://repl.it/@HarshitGupta2/Political-Survey-Landing-Page#index.html or
 https://github.com/KinoZampie/Political-Survey-Landing-Page
 
