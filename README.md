@@ -7,6 +7,7 @@ https://survey-mapper--harshitgupta2.repl.co/ <br>
 https://survey-mapper--harshitgupta2.repl.co/results
 
 *The landing page can be found on:*
+https://kinozampie.github.io/Political-Survey-Landing-Page/ or 
 https://political-survey-landing-page--harshitgupta2.repl.co/ 
 
 *Source for the landing page:*
